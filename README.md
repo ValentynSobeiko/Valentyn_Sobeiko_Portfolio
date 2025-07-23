@@ -12,7 +12,7 @@ Result: Enabled full analytical workflow using structured SQL pipelines, improvi
 ---
 
 ### NYC Taxi Data Engineering & BI Project – Microsoft Fabric  
-📅 Apr 2025 | Apr 2025 | Data Engineering Project [PySpark Pipeline](https://github.com/ValentynSobeiko/NYC-Taxi-Data-Engineering-Project) • BI Engineering Project [Dataflows & BI Layer](https://github.com/ValentynSobeiko/NYC-Taxi-Data-Analytics---BI-Engineering-Project)
+📅 Apr 2025 | Data Engineering Project [PySpark Pipeline](https://github.com/ValentynSobeiko/NYC-Taxi-Data-Engineering-Project) • BI Engineering Project [Dataflows & BI Layer](https://github.com/ValentynSobeiko/NYC-Taxi-Data-Analytics---BI-Engineering-Project)
 
 Designed and delivered two end-to-end data pipelines using Microsoft Fabric to process 3.7M+ NYC Yellow Taxi trip records. The solution utilized a
 scalable Lakehouse architecture with raw data ingestion via ADLS Gen2 and Data Factory, multi-layered transformations (Dataflows Gen2, stored procedures, PySpark), and Power BI for dynamic reporting. Implemented metadata logging and event-based triggers to ensure full automation and transparency.
