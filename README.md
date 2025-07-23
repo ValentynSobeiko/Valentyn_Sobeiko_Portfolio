@@ -6,6 +6,7 @@
 Built a modern data warehouse using SQL Server, integrating ERP and CRM datasets via custom SQL-based ETL pipelines. 
 Applied Medallion Architecture (Bronze, Silver, Gold) to ingest, cleanse, and transform data into an optimized star schema. 
 Delivered SQL reports analyzing customer behavior, product performance, and sales trends.
+
 **Result:** Enabled full analytical workflow using structured SQL pipelines, improving data accessibility and decision-making
 
 
@@ -19,6 +20,7 @@ Delivered SQL reports analyzing customer behavior, product performance, and sale
 
 Designed and delivered two end-to-end data pipelines using Microsoft Fabric to process 3.7M+ NYC Yellow Taxi trip records. The solution utilized a
 scalable Lakehouse architecture with raw data ingestion via ADLS Gen2 and Data Factory, multi-layered transformations (Dataflows Gen2, stored procedures, PySpark), and Power BI for dynamic reporting. Implemented metadata logging and event-based triggers to ensure full automation and transparency.
+
 **Result:** Improved data pipeline reliability and reduced manual intervention by 80
 
 
@@ -32,6 +34,7 @@ scalable Lakehouse architecture with raw data ingestion via ADLS Gen2 and Data F
 
 Built a fully automated ETL pipeline in Azure to process sales data from a local SQL database to Power BI.
 Used Azure Data Factory and Azure Databricks for orchestration and transformation, enabling real-time insights into sales performance. 
+
 **Result:** Enabled stakeholders to monitor sales trends live, boosting reporting efficiency.
 
 
