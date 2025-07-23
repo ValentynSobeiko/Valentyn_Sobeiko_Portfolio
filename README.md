@@ -23,9 +23,12 @@ scalable Lakehouse architecture with raw data ingestion via ADLS Gen2 and Data F
 
 **Result:** Improved data pipeline reliability and reduced manual intervention by 80
 
-
+|Data Engineering Project Architecture|
 <img width="13650" height="8310" alt="image" src="https://github.com/user-attachments/assets/1ec47e7e-281e-4465-845e-f508c3a902b4" />
 
+
+| BI Engineering Project Architecture|
+<img width="15160" height="6450" alt="image" src="https://github.com/user-attachments/assets/5bafadf0-a2a0-43fe-83be-4cfc80258f72" />
 
 ---
 
