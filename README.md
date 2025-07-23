@@ -9,8 +9,9 @@ Delivered SQL reports analyzing customer behavior, product performance, and sale
 
 **Result:** Enabled full analytical workflow using structured SQL pipelines, improving data accessibility and decision-making
 
-
-<img width="10110" height="7300" alt="Architecture Diagram NEW" src="https://github.com/user-attachments/assets/69577691-3341-452a-9fa5-d900282fa4d3" />
+|Architecture Diagram|
+| ----------- |
+| <img width="10110" height="7300" alt="Architecture Diagram NEW" src="https://github.com/user-attachments/assets/69577691-3341-452a-9fa5-d900282fa4d3" />| 
 
 
 ---
@@ -43,7 +44,8 @@ Used Azure Data Factory and Azure Databricks for orchestration and transformatio
 **Result:** Enabled stakeholders to monitor sales trends live, boosting reporting efficiency.
 
 
-<img width="14400" height="8300" alt="image" src="https://github.com/user-attachments/assets/baf7fdea-a468-4b9c-a246-eaf523e8191c" />
+| ----------- |
+|<img width="14400" height="8300" alt="image" src="https://github.com/user-attachments/assets/baf7fdea-a468-4b9c-a246-eaf523e8191c" />|
 
 ---
 
