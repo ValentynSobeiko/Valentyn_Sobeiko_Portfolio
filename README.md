@@ -6,7 +6,9 @@
 Built a modern data warehouse using SQL Server, integrating ERP and CRM datasets via custom SQL-based ETL pipelines. 
 Applied Medallion Architecture (Bronze, Silver, Gold) to ingest, cleanse, and transform data into an optimized star schema. 
 Delivered SQL reports analyzing customer behavior, product performance, and sales trends.
-Result: Enabled full analytical workflow using structured SQL pipelines, improving data accessibility and decision-making
+**Result:** Enabled full analytical workflow using structured SQL pipelines, improving data accessibility and decision-making
+
+<img width="10110" height="7300" alt="Architecture Diagram NEW" src="https://github.com/user-attachments/assets/69577691-3341-452a-9fa5-d900282fa4d3" />
 
 
 ---
@@ -18,6 +20,9 @@ Designed and delivered two end-to-end data pipelines using Microsoft Fabric to p
 scalable Lakehouse architecture with raw data ingestion via ADLS Gen2 and Data Factory, multi-layered transformations (Dataflows Gen2, stored procedures, PySpark), and Power BI for dynamic reporting. Implemented metadata logging and event-based triggers to ensure full automation and transparency.
 **Result:** Improved data pipeline reliability and reduced manual intervention by 80
 
+<img width="13650" height="8310" alt="image" src="https://github.com/user-attachments/assets/1ec47e7e-281e-4465-845e-f508c3a902b4" />
+
+
 ---
 
 ### Automated Sales Data ETL Pipeline (Azure)
@@ -27,10 +32,12 @@ Built a fully automated ETL pipeline in Azure to process sales data from a local
 Used Azure Data Factory and Azure Databricks for orchestration and transformation, enabling real-time insights into sales performance. 
 **Result:** Enabled stakeholders to monitor sales trends live, boosting reporting efficiency.
 
+<img width="14400" height="8300" alt="image" src="https://github.com/user-attachments/assets/baf7fdea-a468-4b9c-a246-eaf523e8191c" />
+
 ---
 
 ### PwC - Power BI Job Simulation
 
 📅 Oct 2024 | [Diversity & Inclusion](https://github.com/ValentynSobeiko/PwC-Power-BI-Diversity-and-Inclusion) • [Customer Retention](https://github.com/ValentynSobeiko/-PwC-Power-BI-Customer-Retention) • [Call Centre Trends](https://github.com/ValentynSobeiko/PwC-Power-BI-Call-Centre-Trends)
 Developed 3 interactive dashboards using Power BI and DAX, analyzing 15,000+ records across diversity and inclusion, customer retention, and call center performance. Calculated and visualized key HR and churn KPIs, including 7K+ high-risk customers ($16M revenue at risk), 22% turnover in Finance, and agent satisfaction gaps (avg. rating 3.4/5).
-Result: Enabled leadership to identify and prioritize critical issues faster, enhancing strategic decision-making with clear, actionable insights..
+**Result:** Enabled leadership to identify and prioritize critical issues faster, enhancing strategic decision-making with clear, actionable insights..
