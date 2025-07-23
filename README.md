@@ -44,6 +44,7 @@ Used Azure Data Factory and Azure Databricks for orchestration and transformatio
 **Result:** Enabled stakeholders to monitor sales trends live, boosting reporting efficiency.
 
 
+||
 | ----------- |
 |<img width="14400" height="8300" alt="image" src="https://github.com/user-attachments/assets/baf7fdea-a468-4b9c-a246-eaf523e8191c" />|
 
