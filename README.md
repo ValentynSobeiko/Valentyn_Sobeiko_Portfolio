@@ -1,3 +1,19 @@
+## 👋 About Me
+
+Experienced **Data & Analytics Engineer** with a demonstrated ability to design, build, and maintain scalable data solutions across cloud platforms. My work focuses on delivering robust data pipelines, modern analytics architecture, and high-impact reporting systems that support data-driven decision-making.
+
+My experience spans both public and private sector environments — from supporting financial policy research at the **European Parliament** to managing enterprise data workflows in a global analytics organization.
+
+I specialize in:
+
+- Developing **end-to-end ETL/ELT pipelines** using **Azure Data Factory**, **Databricks**, and **SQL**
+- Implementing **Lakehouse** and **Medallion architecture** patterns in **Microsoft Fabric**
+- Designing interactive dashboards and semantic models with **Power BI** and **DAX**
+- Ensuring data quality and automation through **stored procedures**, **metadata tracking**, and **event-based orchestration**
+
+I'm passionate about building efficient, transparent, and scalable data solutions that bridge technical implementation with real business value.
+
+
 ## 🚀 Featured Projects
 
 ### SQL Data Warehouse & Analytics
