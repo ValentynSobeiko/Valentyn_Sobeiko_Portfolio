@@ -53,5 +53,6 @@ Used Azure Data Factory and Azure Databricks for orchestration and transformatio
 ### PwC - Power BI Job Simulation
 
 📅 Oct 2024 | [Diversity & Inclusion](https://github.com/ValentynSobeiko/PwC-Power-BI-Diversity-and-Inclusion) • [Customer Retention](https://github.com/ValentynSobeiko/-PwC-Power-BI-Customer-Retention) • [Call Centre Trends](https://github.com/ValentynSobeiko/PwC-Power-BI-Call-Centre-Trends)
+
 Developed 3 interactive dashboards using Power BI and DAX, analyzing 15,000+ records across diversity and inclusion, customer retention, and call center performance. Calculated and visualized key HR and churn KPIs, including 7K+ high-risk customers ($16M revenue at risk), 22% turnover in Finance, and agent satisfaction gaps (avg. rating 3.4/5).
 **Result:** Enabled leadership to identify and prioritize critical issues faster, enhancing strategic decision-making with clear, actionable insights..
