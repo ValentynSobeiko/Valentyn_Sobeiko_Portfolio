@@ -14,6 +14,14 @@ I specialize in:
 I'm passionate about building efficient, transparent, and scalable data solutions that bridge technical implementation with real business value.
 
 
+## 📜 Certifications
+
+| [DP-700]([https://learn.microsoft.com/en-us/credentials/certifications/fabric-data-engineer-associate/](https://learn.microsoft.com/api/credentials/share/en-us/ValentynSobeiko/F9D3EC549504FBAE?sharingId=BCA0823FB657BA9C)) <br> Fabric Data Engineer | [DP-600]([https://learn.microsoft.com/en-us/credentials/certifications/fabric-analytics-engineer-associate](https://learn.microsoft.com/api/credentials/share/en-us/ValentynSobeiko/D62A34347101E0A9?sharingId=BCA0823FB657BA9C)/) <br> Fabric Analytics Engineer | [DP-900]([https://learn.microsoft.com/en-us/credentials/certifications/azure-data-fundamentals](https://learn.microsoft.com/api/credentials/share/en-us/ValentynSobeiko/ACBE757E05D49428?sharingId=BCA0823FB657BA9C)/) <br> Azure Data Fundamentals | [DP-420]([https://learn.microsoft.com/en-us/credentials/certifications/power-bi-data-analyst-associate/](https://learn.microsoft.com/api/credentials/share/en-us/ValentynSobeiko/D926BDCE1CCD6CDD?sharingId=BCA0823FB657BA9C)) <br> Azure Cosmos DB Developer | [Databricks Fundamentals]([https://www.databricks.com/learn/certification/data-engineer-associate](https://credentials.databricks.com/b2609cf5-df7e-4024-bb50-735e1d649791#acc.DQuvGaRy)) | Databricks <br> Data Engineer Associate *(in progress)* |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| [![](assets/certs/dp700.png)](https://learn.microsoft.com/en-us/credentials/certifications/fabric-data-engineer-associate/) | [![](assets/certs/dp600.png)](https://learn.microsoft.com/en-us/credentials/certifications/fabric-analytics-engineer-associate/) | [![](assets/certs/dp900.png)](https://learn.microsoft.com/en-us/credentials/certifications/azure-data-fundamentals/) | [![](assets/certs/dp420.png)](https://learn.microsoft.com/en-us/credentials/certifications/power-bi-data-analyst-associate/) | [![](assets/certs/databricks-fundamentals.png)](https://www.databricks.com/learn/certification/data-engineer-associate) | ![](assets/certs/databricks-in-progress.png) |
+
+
+
 ## 🚀 Featured Projects
 
 ### SQL Data Warehouse & Analytics
