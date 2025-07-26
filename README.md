@@ -9,7 +9,7 @@
 </p>
 
 
-## 👋 About Me
+##
 
 Experienced **Data & Analytics Engineer** with a demonstrated ability to design, build, and maintain scalable data solutions across cloud platforms. My work focuses on delivering robust data pipelines, modern analytics architecture, and high-impact reporting systems that support data-driven decision-making.
 
