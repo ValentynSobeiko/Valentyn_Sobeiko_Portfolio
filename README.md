@@ -3,6 +3,8 @@
   📍 Brussels, Belgium &nbsp; | &nbsp;
   <a href="https://www.linkedin.com/in/valentynsobeiko/" target="_blank">LinkedIn</a> &nbsp; | &nbsp;
   <a href="https://github.com/ValentynSobeiko" target="_blank">GitHub</a> &nbsp; | &nbsp;
+  <a href="https://learn.microsoft.com/en-us/users/valentynsobeiko/achievements?tab=applied-skills-tab" target="_blank">Microsoft learn</a> &nbsp; | &nbsp;
+  <a href="https://https://www.hackerrank.com/profile/Valentyn_Sobeiko" target="_blank">Hackerrank</a> &nbsp; | &nbsp;
   <a href="mailto:valentyn.sobeiko@gmail.com">Email</a>
 </p>
 
