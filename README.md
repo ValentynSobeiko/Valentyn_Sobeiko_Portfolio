@@ -92,3 +92,24 @@ Used Azure Data Factory and Azure Databricks for orchestration and transformatio
 
 Developed 3 interactive dashboards using Power BI and DAX, analyzing 15,000+ records across diversity and inclusion, customer retention, and call center performance. Calculated and visualized key HR and churn KPIs, including 7K+ high-risk customers ($16M revenue at risk), 22% turnover in Finance, and agent satisfaction gaps (avg. rating 3.4/5).
 **Result:** Enabled leadership to identify and prioritize critical issues faster, enhancing strategic decision-making with clear, actionable insights..
+
+
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>My White Portfolio</title>
+    <style>
+      body {
+        background: #fff;
+        color: #111;
+        font-family: sans-serif;
+        margin: 2em;
+      }
+    </style>
+  </head>
+  <body>
+    <h1>Welcome to My Portfolio!</h1>
+    <p>This portfolio always has a white background, no matter your GitHub theme.</p>
+  </body>
+</html>
