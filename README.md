@@ -26,7 +26,7 @@ I'm passionate about building efficient, transparent, and scalable data solution
 
 
 
-
+##
 ## 📜 Certifications
 
 | DP-700 <br> Fabric Data Engineer | DP-600 <br> Fabric Analytics Engineer | DP-420 <br> Azure Cosmos DB Developer  | DP-900 <br> Azure Data Fundamentals | Databricks <br> Fundamentals | Databricks <br> Data Engineer Associate *(in progress)* |
