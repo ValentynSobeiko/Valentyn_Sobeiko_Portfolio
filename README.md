@@ -69,7 +69,7 @@ scalable Lakehouse architecture with raw data ingestion via ADLS Gen2 and Data F
 
 ---
 
-### 🚀 Automated Sales Data ETL Pipeline (Azure)
+### 🛒 Automated Sales Data ETL Pipeline (Azure)
 📅 Nov 2024 | [ETL Pipeline](https://github.com/ValentynSobeiko/Azure-End-to-End-Data-Engineering-Real-Time-Project)
 
 Built a fully automated ETL pipeline in Azure to process sales data from a local SQL database to Power BI.
