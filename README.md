@@ -84,7 +84,7 @@ Used Azure Data Factory and Azure Databricks for orchestration and transformatio
 
 ---
 
-### <img width="3840" height="2160" alt="image" src="https://github.com/user-attachments/assets/4dc858a9-cf44-4e10-8ed5-9ffd7aa1a695" /> PwC - Power BI Job Simulation
+### <img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/4dc858a9-cf44-4e10-8ed5-9ffd7aa1a695" /> PwC - Power BI Job Simulation
 
 📅 Oct 2024 | [Diversity & Inclusion](https://github.com/ValentynSobeiko/PwC-Power-BI-Diversity-and-Inclusion) • [Customer Retention](https://github.com/ValentynSobeiko/-PwC-Power-BI-Customer-Retention) • [Call Centre Trends](https://github.com/ValentynSobeiko/PwC-Power-BI-Call-Centre-Trends)
 
