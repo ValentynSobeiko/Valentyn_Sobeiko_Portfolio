@@ -94,22 +94,3 @@ Developed 3 interactive dashboards using Power BI and DAX, analyzing 15,000+ rec
 **Result:** Enabled leadership to identify and prioritize critical issues faster, enhancing strategic decision-making with clear, actionable insights..
 
 
-
-<!DOCTYPE html>
-<html>
-  <head>
-    <title>My White Portfolio</title>
-    <style>
-      body {
-        background: #fff;
-        color: #111;
-        font-family: sans-serif;
-        margin: 2em;
-      }
-    </style>
-  </head>
-  <body>
-    <h1>Welcome to My Portfolio!</h1>
-    <p>This portfolio always has a white background, no matter your GitHub theme.</p>
-  </body>
-</html>
