@@ -58,7 +58,7 @@ Delivered SQL reports analyzing customer behavior, product performance, and sale
 Designed and delivered two end-to-end data pipelines using Microsoft Fabric to process 3.7M+ NYC Yellow Taxi trip records. The solution utilized a
 scalable Lakehouse architecture with raw data ingestion via ADLS Gen2 and Data Factory, multi-layered transformations (Dataflows Gen2, stored procedures, PySpark), and Power BI for dynamic reporting. Implemented metadata logging and event-based triggers to ensure full automation and transparency.
 
-**Result:** Improved data pipeline reliability and reduced manual intervention by 80
+**Result:** Improved data pipeline reliability and reduced manual intervention by 80%
 
 |Data Engineering Project Architecture|
 | ----------- |
