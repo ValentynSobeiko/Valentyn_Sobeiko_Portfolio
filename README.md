@@ -1,3 +1,14 @@
+<h1 align="center">Valentyn Sobeiko</h1>
+<p align="center">
+  📍 Brussels, Belgium &nbsp; | &nbsp;
+  <a href="https://www.linkedin.com/in/valentynsobeiko/" target="_blank">LinkedIn</a> &nbsp; | &nbsp;
+  <a href="https://github.com/ValentynSobeiko" target="_blank">GitHub</a> &nbsp; | &nbsp;
+  <a href="mailto:valentyn.sobeiko@gmail.com">Email</a>
+</p>
+
+
+
+
 ## 👋 About Me
 
 Experienced **Data & Analytics Engineer** with a demonstrated ability to design, build, and maintain scalable data solutions across cloud platforms. My work focuses on delivering robust data pipelines, modern analytics architecture, and high-impact reporting systems that support data-driven decision-making.
